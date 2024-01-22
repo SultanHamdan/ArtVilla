@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ArtVilla/static/css/main.547eb805.css",
+    "main.js": "/ArtVilla/static/js/main.44123264.js",
+    "static/js/787.96cb88b3.chunk.js": "/ArtVilla/static/js/787.96cb88b3.chunk.js",
+    "index.html": "/ArtVilla/index.html",
+    "main.547eb805.css.map": "/ArtVilla/static/css/main.547eb805.css.map",
+    "main.44123264.js.map": "/ArtVilla/static/js/main.44123264.js.map",
+    "787.96cb88b3.chunk.js.map": "/ArtVilla/static/js/787.96cb88b3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.547eb805.css",
+    "static/js/main.44123264.js"
+  ]
+}
